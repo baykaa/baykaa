@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hi, I'm Bayka 
+### 💻 Full Stack Engineer | AI/ML Enthusiast
 
-<!--
-**baykaa/baykaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌎 An international student at [Tokyo International University](https://www.tiu.ac.jp/etrack/whytiu/) and currently interning as Software Engineer at [**Connect**](https://connec10.co.jp/careers/) .
 
-Here are some ideas to get you started:
+I'm passionate about developer experience, AI/ML products, and intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Tech Snapshot
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,js,vue,nodejs,php,laravel,kotlin,mysql,gcp,docker" />
+</p>
+
+### 🤝 Connect with Me  
+[🌐 Portfolio](https://pratik-kumar.netlify.app) · [💼 LinkedIn](https://www.linkedin.com/in/bayanmunkh-delgersaikhan/) · [🧑‍💻 GitHub](https://github.com/baykaa) · 📧 **degibayanmunkh@gmail.com**
+
+Thanks for visiting! ✨ Let's build something awesome together.
